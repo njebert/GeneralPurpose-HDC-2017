@@ -1,7 +1,0 @@
-C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\bin\Debug\netcoreapp1.1\BusinessLogic.deps.json
-C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\bin\Debug\netcoreapp1.1\BusinessLogic.dll
-C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\bin\Debug\netcoreapp1.1\BusinessLogic.pdb
-C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\obj\Debug\netcoreapp1.1\BusinessLogic.csprojResolveAssemblyReference.cache
-C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\obj\Debug\netcoreapp1.1\BusinessLogic.AssemblyInfo.cs
-C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\obj\Debug\netcoreapp1.1\BusinessLogic.dll
-C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\obj\Debug\netcoreapp1.1\BusinessLogic.pdb
