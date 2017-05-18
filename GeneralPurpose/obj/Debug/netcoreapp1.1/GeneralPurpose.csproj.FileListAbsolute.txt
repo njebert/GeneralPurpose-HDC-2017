@@ -1,0 +1,11 @@
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\GeneralPurpose\bin\Debug\netcoreapp1.1\GeneralPurpose.deps.json
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\GeneralPurpose\bin\Debug\netcoreapp1.1\GeneralPurpose.runtimeconfig.json
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\GeneralPurpose\bin\Debug\netcoreapp1.1\GeneralPurpose.runtimeconfig.dev.json
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\GeneralPurpose\bin\Debug\netcoreapp1.1\GeneralPurpose.dll
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\GeneralPurpose\obj\Debug\netcoreapp1.1\GeneralPurpose.csprojResolveAssemblyReference.cache
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\GeneralPurpose\obj\Debug\netcoreapp1.1\GeneralPurpose.AssemblyInfo.cs
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\GeneralPurpose\bin\Debug\netcoreapp1.1\GeneralPurpose.pdb
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\GeneralPurpose\obj\Debug\netcoreapp1.1\GeneralPurpose.dll
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\GeneralPurpose\obj\Debug\netcoreapp1.1\GeneralPurpose.pdb
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\GeneralPurpose\bin\Debug\netcoreapp1.1\BusinessLogic.dll
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\GeneralPurpose\bin\Debug\netcoreapp1.1\BusinessLogic.pdb

@@ -1,0 +1,14 @@
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\bin\Debug\netcoreapp1.1\GeneralPurpose.BL.deps.json
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\bin\Debug\netcoreapp1.1\GeneralPurpose.BL.dll
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\bin\Debug\netcoreapp1.1\GeneralPurpose.BL.pdb
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\obj\Debug\netcoreapp1.1\GeneralPurpose.BL.csprojResolveAssemblyReference.cache
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\obj\Debug\netcoreapp1.1\GeneralPurpose.BL.AssemblyInfo.cs
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\obj\Debug\netcoreapp1.1\GeneralPurpose.BL.dll
+C:\Users\nick.ebert\Source\Sandbox\GeneralPurpose\CustomerLogic\obj\Debug\netcoreapp1.1\GeneralPurpose.BL.pdb
+C:\Users\nick.ebert\Source\Sandbox\NebraskaCode2017_GeneralPurpose\CustomerLogic\bin\Debug\netcoreapp1.1\GeneralPurpose.BL.deps.json
+C:\Users\nick.ebert\Source\Sandbox\NebraskaCode2017_GeneralPurpose\CustomerLogic\bin\Debug\netcoreapp1.1\GeneralPurpose.BL.dll
+C:\Users\nick.ebert\Source\Sandbox\NebraskaCode2017_GeneralPurpose\CustomerLogic\bin\Debug\netcoreapp1.1\GeneralPurpose.BL.pdb
+C:\Users\nick.ebert\Source\Sandbox\NebraskaCode2017_GeneralPurpose\CustomerLogic\obj\Debug\netcoreapp1.1\GeneralPurpose.BL.csprojResolveAssemblyReference.cache
+C:\Users\nick.ebert\Source\Sandbox\NebraskaCode2017_GeneralPurpose\CustomerLogic\obj\Debug\netcoreapp1.1\GeneralPurpose.BL.AssemblyInfo.cs
+C:\Users\nick.ebert\Source\Sandbox\NebraskaCode2017_GeneralPurpose\CustomerLogic\obj\Debug\netcoreapp1.1\GeneralPurpose.BL.dll
+C:\Users\nick.ebert\Source\Sandbox\NebraskaCode2017_GeneralPurpose\CustomerLogic\obj\Debug\netcoreapp1.1\GeneralPurpose.BL.pdb

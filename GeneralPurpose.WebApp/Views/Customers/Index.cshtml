@@ -1,0 +1,52 @@
+@model GeneralPurpose.WebApp.Models.CustomerViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Customer List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.customers[0].CustomerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.customers[0].CustomerName)
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.movies[0].Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.movies[0].Price)
+            </th>*@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.customers)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CustomerId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CustomerName)
+                </td>
+                @*<td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>*@
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CustomerId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.CustomerId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CustomerId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
