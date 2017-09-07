@@ -13,5 +13,7 @@ namespace GeneralPurpose.WebApp.Models
         public int CustomerId { get; set; }
         [DataMember]
         public string CustomerName { get; set; }
+        [DataMember]
+        public string PhoneNumber { get; set; }
     }
 }
